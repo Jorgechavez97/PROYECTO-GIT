@@ -4,3 +4,5 @@
 
 
 $ git init (instalar git nr el proyecto)
+
+git add . ( )

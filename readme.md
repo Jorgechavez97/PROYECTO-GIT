@@ -11,3 +11,5 @@ conociendo como trabajar con git
 hola
 como estas 
 laflmsdlfr
+github 
+proyecto git choche
